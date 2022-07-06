@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ajax-library": "^1.0.1",
+    "ajax-libs": "^9.0.3",
+    "icon-package": "^9.0.0",
+    "umbrellaks": "^1.0.0"
+  }
+}
